@@ -19693,8 +19693,8 @@ p.O9(q)
 p.CT()
 return A.U(null,r)}})
 return A.V($async$S1,r)},
-aAV(){var s="messages",r="customers",q="products",p=t.Kk
-return new A.GG(A.aAe("/",A.b([A.wk(new A.a4f(),null,null,"/",A.b([A.wk(A.S3(),"sellers",new A.a4g(),"sellers",B.cW),A.wk(A.S3(),s,new A.a4h(),s,B.cW),A.wk(A.S3(),r,new A.a4i(),r,B.cW),A.wk(A.S3(),q,new A.a4j(),q,B.cW)],p))],p),B.vH),null)},
+aAV(){var s="/dashboard",r="messages",q="customers",p="products",o=t.Kk
+return new A.GG(A.aAe(s,A.b([A.wk(new A.a4f(),null,null,s,A.b([A.wk(A.S3(),"sellers",new A.a4g(),"sellers",B.cW),A.wk(A.S3(),r,new A.a4h(),r,B.cW),A.wk(A.S3(),q,new A.a4i(),q,B.cW),A.wk(A.S3(),p,new A.a4j(),p,B.cW)],o))],o),B.vH),null)},
 GG:function GG(a,b){this.c=a
 this.a=b},
 a4f:function a4f(){},
